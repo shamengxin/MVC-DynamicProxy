@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DynamicProxy/DynamicProxy.iml" filepath="$PROJECT_DIR$/DynamicProxy/DynamicProxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVC/MVC.iml" filepath="$PROJECT_DIR$/MVC/MVC.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVC+DynamicProxy.iml" filepath="$PROJECT_DIR$/MVC+DynamicProxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVC/bank-mvc-001/bank-mvc-001.iml" filepath="$PROJECT_DIR$/MVC/bank-mvc-001/bank-mvc-001.iml" />
@@ -10,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/MVC/bank-mvc-004/bank-mvc-004.iml" filepath="$PROJECT_DIR$/MVC/bank-mvc-004/bank-mvc-004.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVC/bank-mvc-005/bank-mvc-005.iml" filepath="$PROJECT_DIR$/MVC/bank-mvc-005/bank-mvc-005.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVC/bank-mvc-last/bank-mvc-last.iml" filepath="$PROJECT_DIR$/MVC/bank-mvc-last/bank-mvc-last.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProxy/dynamic-proxy-03/dynamic-proxy-03.iml" filepath="$PROJECT_DIR$/DynamicProxy/dynamic-proxy-03/dynamic-proxy-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProxy/static-proxy-01/static-proxy-01.iml" filepath="$PROJECT_DIR$/DynamicProxy/static-proxy-01/static-proxy-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProxy/test-method-02/test-method-02.iml" filepath="$PROJECT_DIR$/DynamicProxy/test-method-02/test-method-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVC/threadlocal/threadlocal.iml" filepath="$PROJECT_DIR$/MVC/threadlocal/threadlocal.iml" />
     </modules>
   </component>
