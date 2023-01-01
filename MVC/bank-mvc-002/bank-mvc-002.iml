@@ -7,8 +7,11 @@
           <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
-          <root url="file://$MODULE_DIR$/web" relative="/" />
+          <root url="file://$MODULE_DIR$/../../bank-mvc-002/web" relative="/" />
         </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../bank-mvc-002/src" />
+        </sourceRoots>
       </configuration>
     </facet>
   </component>
@@ -22,18 +25,19 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../../../apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib" />
-          <root url="file://$MODULE_DIR$/../../../apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib" />
+          <root url="file://$MODULE_DIR$/../../../../apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib" />
+          <root url="file://$MODULE_DIR$/../../../../apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://$MODULE_DIR$/../../../apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib" recursive="false" />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/servlet-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/servlet-api.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -42,7 +46,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/jsp-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/jsp-api.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
