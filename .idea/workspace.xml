@@ -9,32 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4c856b8-7df0-495a-977f-382212ad5198" name="变更" comment="1-1,MVC架构模式">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/DynamicProxy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/dynamic-proxy-03/dynamic-proxy-03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/dynamic-proxy-03/src/com/shamengxin/MainShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/dynamic-proxy-03/src/com/shamengxin/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/dynamic-proxy-03/src/com/shamengxin/factory/UsbKingImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/dynamic-proxy-03/src/com/shamengxin/handler/MyShellHander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/dynamic-proxy-03/src/com/shamengxin/handler/UtilHander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/dynamic-proxy-03/src/com/shamengxin/service/UsbShell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/static-proxy-01/src/com/shamengxin/ShopMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/static-proxy-01/src/com/shamengxin/factory/UsbKingImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/static-proxy-01/src/com/shamengxin/factory/UsbSanImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/static-proxy-01/src/com/shamengxin/service/UsbShell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/static-proxy-01/src/com/shamengxin/shangjia/TaoBao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/static-proxy-01/src/com/shamengxin/shangjia/TaoBaoSanDi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/static-proxy-01/src/com/shamengxin/shangjia/WeiShang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/static-proxy-01/src/com/shamengxin/shangjia/WeiShangSanDi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/static-proxy-01/static-proxy-01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/test-method-02/src/com/shamengxin/TestApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/test-method-02/src/com/shamengxin/impl/HelloServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/test-method-02/src/com/shamengxin/impl/HelloServiceImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/test-method-02/src/com/shamengxin/service/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/test-method-02/test-method-02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d4c856b8-7df0-495a-977f-382212ad5198" name="变更" comment="1-1,动态代理">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVC/bank-mvc-001/bank-mvc-001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/bank-mvc-001/bank-mvc-001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVC/bank-mvc-002/bank-mvc-002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/bank-mvc-002/bank-mvc-002.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVC/bank-mvc-003/bank-mvc-003.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/bank-mvc-003/bank-mvc-003.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVC/bank-mvc-004/bank-mvc-004.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/bank-mvc-004/bank-mvc-004.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVC/bank-mvc-005/bank-mvc-005.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/bank-mvc-005/bank-mvc-005.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVC/bank-mvc-last/bank-mvc-last.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/bank-mvc-last/bank-mvc-last.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +61,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "13",
-    "last_opened_file_path": "B:/JavaWeb阶段/MVC+DynamicProxy",
+    "last_opened_file_path": "B:/Tomcat/apache-tomcat-10.0.12/lib/jsp-api.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -293,7 +275,8 @@
       <workItem from="1670928672285" duration="236000" />
       <workItem from="1670929788355" duration="65000" />
       <workItem from="1670982623345" duration="26986000" />
-      <workItem from="1672541485441" duration="8647000" />
+      <workItem from="1672541485441" duration="8806000" />
+      <workItem from="1673879552005" duration="1072000" />
     </task>
     <task id="LOCAL-00001" summary="12-13">
       <created>1670928826920</created>
@@ -316,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672541585688</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1-1,动态代理">
+      <created>1672560108251</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672560108251</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,6 +328,7 @@
     <MESSAGE value="12-13" />
     <MESSAGE value="12-14" />
     <MESSAGE value="1-1,MVC架构模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-1,MVC架构模式" />
+    <MESSAGE value="1-1,动态代理" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-1,动态代理" />
   </component>
 </project>
